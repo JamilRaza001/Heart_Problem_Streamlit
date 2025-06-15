@@ -1,1 +1,7 @@
-treamlit, pandas, numpy, seaborn, matplotlib, scikit-learn, joblib
+streamlit, 
+pandas,
+numpy, 
+seaborn, 
+matplotlib, 
+scikit-learn, 
+joblib
